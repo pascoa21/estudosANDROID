@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cafeterias do Antigo</string>
+    <string name="ver_mais">ver_mais</string>
+    <string name="site_iati">https://www.iati.org.br/</string>
+</resources>
